@@ -33,6 +33,7 @@ Requests Docs: https://requests.readthedocs.io/en/master/
 
  ### Parsing Docs
 Selenium Docs: https://selenium-python.readthedocs.io/
+
 BeautifulSoup Docs: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
  ### Pandas Docs
